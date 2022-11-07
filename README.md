@@ -26,3 +26,6 @@ Then we just simply use Jquery (ps script must be after <body> since it is gener
              $(".datepicker input").attr('readonly', true);
             
         </script>
+
+  
+  ![image](https://user-images.githubusercontent.com/41301282/200298286-59a2c324-e5d3-4711-99e0-a12f7767e232.png)
